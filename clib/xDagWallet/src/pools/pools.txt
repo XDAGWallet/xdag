@@ -1,0 +1,16 @@
+109.196.45.218:443
+139.99.124.23:13654
+xdag.jeepool.com:13654
+95.216.36.234:13654
+pool.xdagcn.com:13654
+xdag.yourspool.com:443
+xdag.uupool.cn:13654
+139.99.124.135:13654
+136.243.55.153:13654
+pool1.xdag.signal2noi.se:443
+78.46.82.220:13654
+172.105.216.53:3355
+142.44.143.234:777
+xdag.coolmine.top:13654
+xdag.poolaroid.cash:443
+pool.xdag.us:13654
